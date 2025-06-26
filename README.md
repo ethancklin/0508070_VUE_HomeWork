@@ -1,5 +1,7 @@
-# Vue 3 + Vite
-
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+# 0508070_VUE_HomeWork
+收藏網址⼩⼯具
+按鈕功能說明--
+1.新增收藏--將喜歡的網址複製至Input輸入框後，點選新增收藏，會將網址存到Network[]和Local DB中，並顯示於頁面上
+2.刪除全部收藏--將Network[]和Local DB中的資料全部清除
+3.刪除單一收藏--每次收藏的喜愛的網址，旁邊有一個刪除功能鍵，若點選後會透過findindex搜尋，將該網址從頁面移除，並一併將存於Local DB的資料移除
+4.將滑鼠移於網址點選後，會有新的視窗將點選的網頁進行開啟
